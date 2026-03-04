@@ -23,4 +23,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: yourdockerhubusername/cicd-demo:latest
+        tags: dhanuvagman123/cicdapp:latest
